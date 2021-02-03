@@ -1,0 +1,9 @@
+body {
+  background-image: url("whitebg.png");
+}
+p{
+	font-size:40px;color: blue;border:10px dashed yellow;background-color:gray
+
+/*h3{
+	background-color: blue
+}*/
